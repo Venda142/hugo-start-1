@@ -8,3 +8,4 @@ draft: true
 src="https://www.youtube.com/embed/a2HMKaMG_T0/">
 </iframe>
 
+Vybrala som tento iframe vložený obsah, pretože by to mohlo byť užitočné úvodné tematické video k našej téme - Hraj Ascension! (stolná hra).
