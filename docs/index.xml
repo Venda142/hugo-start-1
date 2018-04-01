@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on pohadka</title>
+    <title>Home on Hraj Ascension!</title>
     <link>https://lostpeanut.github.io/hugo-start/</link>
-    <description>Recent content in Home on pohadka</description>
+    <description>Recent content in Home on Hraj Ascension!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 29 Mar 2018 12:01:26 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 13:21:27 +0200</lastBuildDate>
     
 	<atom:link href="https://lostpeanut.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Team</title>
+      <link>https://lostpeanut.github.io/hugo-start/post/team/</link>
+      <pubDate>Sun, 01 Apr 2018 13:21:27 +0200</pubDate>
+      
+      <guid>https://lostpeanut.github.io/hugo-start/post/team/</guid>
+      <description>Sme tri šikovné študentky KISKu, preto vznikol tento projekt. Snáď sa Vám bude páčiť!
+Členovia projektu Mária Sadecká Nápad na tému Hraj Ascension! mi skrsol v hlave veľmi spontánne. Keďže som si túto hru veľmi obľúbila a baví ma, napadlo mi, že nie je odveci, aby som sa jej venovala viac.
+Navyše mám super spolupracovníčky, takže je to o to väčšia sranda!
+Vendula Pavková  zajímavé téma když vydržím - - &amp;gt; udělám tenhle předmět práce s fajn kolektivem  Veronika Vobořilová Každý člověk by si měl někdy odpočinout od práce.</description>
+    </item>
     
     <item>
       <title>Hraj Ascension</title>
@@ -42,13 +54,12 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
-      <title>About</title>
+      <title>O projekte</title>
       <link>https://lostpeanut.github.io/hugo-start/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lostpeanut.github.io/hugo-start/about/</guid>
-      <description>This is a minimal Hugo website created for a course VIKBA07.
-Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
+      <description>Hraj Ascension! Cieľ webu Chceme českú spoločnosť oboznámiť s kartovou hrou Ascension, ktorá sa u nás nepreslávila natoľko, ako napríklad karty Magic a podobne. Chceme vytvoriť web, ktorý čitateľov uvedie do problematiky, v čom sú stolné hry užitočné, a potom sa chceme zamerať na hru Ascension – na jej históriu, pravidlá, decky, karty, tipy, triky a užitočné weby, ktoré priblížia viac do hĺbky celú problematiku. Veríme, že niekoho to zaujme a pridá sa do skupiny hráčov.</description>
     </item>
     
   </channel>
