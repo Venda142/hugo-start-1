@@ -1,94 +1,120 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home on Hraj Ascension!</title>
-    <link>https://lostpeanut.github.io/hugo-start/</link>
-    <description>Recent content in Home on Hraj Ascension!</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>cs-cz</language>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://lostpeanut.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Ascencion: Year One Collector&#39;s Edition</title>
-      <link>https://lostpeanut.github.io/hugo-start/post/clanek/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://lostpeanut.github.io/hugo-start/post/clanek/</guid>
-      <description>Ascension: Year One Collector&amp;rsquo;s Edition &amp;ldquo;Ascension: Year One Collector&amp;rsquo;s Edition&amp;rdquo; je sběratelskou edicí obsahující všech 346 karet. Karty mají nové rámečky s povrchovou úpravou z prémiové fólie a patří mezi &amp;ldquo;top&amp;rdquo; sběratelský kousek v jakékoli Ascencion kolekci.
-Tato sada zahrnuje:
-1. Chronicle of the Godslayer
-2. Ascension: Return of the Fallen King
-3. Rat King Theme Pack, Rat Queen Theme Pack
-4. Samael Claus Theme pack
-5. Leprechaun Theme Pack and the entire first year of promo cards!</description>
-    </item>
-    
-    <item>
-      <title>Nové dáta</title>
-      <link>https://lostpeanut.github.io/hugo-start/post/newdata/</link>
-      <pubDate>Sun, 22 Apr 2018 12:57:24 +0200</pubDate>
-      
-      <guid>https://lostpeanut.github.io/hugo-start/post/newdata/</guid>
-      <description>Naša stránka sa zaoberá stolnou hrou Ascension. V lekcii 7 máme pridať nový post s dátami voľne dostupnými, ktoré môžeme využiť na našom webe.
-Zdroje, ktoré využijeme:
- https://en.wikipedia.org/wiki/Board_game - Zdroj z wikipedie pod licenciou Creative Commons. Obsahuje informácie o stolných hrách.
- https://en.wikipedia.org/wiki/List_of_board_games - Opäť zdroj z wikipedie pod Creative Commons licenciou - je to zoznam známych stolných hier.
- https://boardgames.stackexchange.com/ - licencované pod cc by-sa 3.0 with attribution required, to znamená, že obsah musí byť označený, musíme odkazovať na pôvodnú stránku, ukázať mená autorov a linky na ich profily - zdá sa to zložité, ale je to v poriadku a je to jedna z mála stránok, ktoré vôbec dovoľujú zdieľanie ich obsahu.</description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>https://lostpeanut.github.io/hugo-start/post/team/</link>
-      <pubDate>Sun, 01 Apr 2018 13:21:27 +0200</pubDate>
-      
-      <guid>https://lostpeanut.github.io/hugo-start/post/team/</guid>
-      <description>Sme tri šikovné študentky KISKu, preto vznikol tento projekt. Snáď sa Vám bude páčiť!
-Členovia projektu Mária Sadecká Nápad na tému Hraj Ascension! mi skrsol v hlave veľmi spontánne. Keďže som si túto hru veľmi obľúbila a baví ma, napadlo mi, že nie je odveci, aby som sa jej venovala viac.
-Navyše mám super spolupracovníčky, takže je to o to väčšia sranda!
-Vendula Pavková  zajímavé téma když vydržím - - &amp;gt; udělám tenhle předmět práce s fajn kolektivem  Veronika Vobořilová Každý člověk by si měl někdy odpočinout od práce.</description>
-    </item>
-    
-    <item>
-      <title>Hraj Ascension</title>
-      <link>https://lostpeanut.github.io/hugo-start/post/nazev/</link>
-      <pubDate>Thu, 29 Mar 2018 12:01:26 +0200</pubDate>
-      
-      <guid>https://lostpeanut.github.io/hugo-start/post/nazev/</guid>
-      <description>Vybrala som tento vložený obsah, pretože by to mohlo byť užitočné úvodné tematické video k našej téme - Hraj Ascension! (stolná hra).</description>
-    </item>
-    
-    <item>
-      <title>All albums of The Beatles</title>
-      <link>https://lostpeanut.github.io/hugo-start/post/another-post/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://lostpeanut.github.io/hugo-start/post/another-post/</guid>
-      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
+<!doctype html>
+<html lang="cs-cz">
+<head>
+	<meta name="generator" content="Hugo 0.36" />
+  <meta charset="utf-8">
+  <title>Hraj Ascension!</title>
+  <link rel="stylesheet" href="/hugo-start/css/style.css">
+  
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-117957086-1', 'auto');
+ga('send', 'pageview');
+</script>
 
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Hugo!</title>
-      <link>https://lostpeanut.github.io/hugo-start/post/welcome-to-hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1><a href="/hugo-start/">Hraj Ascension!</a></h1>
+      <p class="description">Description of my new site.</p>
+    </header>
+
+    <div class="page">
       
-      <guid>https://lostpeanut.github.io/hugo-start/post/welcome-to-hugo/</guid>
-      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
-    </item>
-    
-    <item>
-      <title>O projekte</title>
-      <link>https://lostpeanut.github.io/hugo-start/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+  
+
+<h1 id="hello-world-it-works">Hello World! (It works!)</h1>
+
+<p>This are the contents of the Hugo start website front page.</p>
+
+<h2 id="something-to-read-sonnet-lxvi">Something to read: Sonnet LXVI.</h2>
+
+<blockquote>
+<p><em>Tired with all these, for restful death I cry,<br />
+As to behold desert a beggar born,<br />
+And needy nothing trimm&rsquo;d in jollity,<br />
+And purest faith unhappily forsworn,<br />
+And gilded honour shamefully misplaced,<br />
+And maiden virtue rudely strumpeted,<br />
+And right perfection wrongfully disgraced,<br />
+And strength by limping sway disabled<br />
+And art made tongue-tied by authority,<br />
+And folly, doctor-like, controlling skill,<br />
+And simple truth miscalled simplicity,<br />
+And captive good attending captain ill:<br />
+Tired with all these, from these would I be gone,<br />
+Save that, to die, I leave my love alone.</em></p>
+
+<p>William Shakespeare</p>
+</blockquote>
+
+
+  <h2>New articles</h2>
+
+  
+  <li>
+    <a href="https://lostpeanut.github.io/hugo-start/post/clanek/">Testujeme Ascension: Deckbuilding Game na Steame</a> — May 1, 2018
+  </li>
+
+  <li>
+    <a href="https://lostpeanut.github.io/hugo-start/post/newdata/">Nové dáta</a> — April 22, 2018
+  </li>
+
+  <li>
+    <a href="https://lostpeanut.github.io/hugo-start/post/team/">Team</a> — April 1, 2018
+  </li>
+
+  <li>
+    <a href="https://lostpeanut.github.io/hugo-start/post/nazev/">Hraj Ascension</a> — March 29, 2018
+  </li>
+
+  <li>
+    <a href="https://lostpeanut.github.io/hugo-start/post/another-post/">All albums of The Beatles</a> — March 15, 2018
+  </li>
+
+  <li>
+    <a href="https://lostpeanut.github.io/hugo-start/post/welcome-to-hugo/">Welcome to Hugo!</a> — March 13, 2018
+  </li>
+
+
+    </div>
+
+    <aside>
+  <nav>
+    <ul>
       
-      <guid>https://lostpeanut.github.io/hugo-start/about/</guid>
-      <description>Hraj Ascension! Cieľ webu Chceme českú spoločnosť oboznámiť s kartovou hrou Ascension, ktorá sa u nás nepreslávila natoľko, ako napríklad karty Magic a podobne. Chceme vytvoriť web, ktorý čitateľov uvedie do problematiky, v čom sú stolné hry užitočné, a potom sa chceme zamerať na hru Ascension – na jej históriu, pravidlá, decky, karty, tipy, triky a užitočné weby, ktoré priblížia viac do hĺbky celú problematiku. Veríme, že niekoho to zaujme a pridá sa do skupiny hráčov.</description>
-    </item>
-    
-  </channel>
-</rss>
+      
+        
+        <li class=" active">
+          <a href="/hugo-start/">Homepage</a>
+        </li>
+      
+        
+        <li class="">
+          <a href="/hugo-start/post/">Archive</a>
+        </li>
+      
+        
+        <li class="">
+          <a href="/hugo-start/about/">O projekte</a>
+        </li>
+      
+      <li>&hearts; 2018 Authors</li>
+    </ul>
+  </nav>
+</aside>
+
+
+    <footer>
+      <p>
+        <a style="box-shadow: none" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/hugo-start/images/cc80x15.png" /></a><br>
+        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><b>Creative Commons</b> Attribution-ShareAlike 4.0 International License</a>.
+      </p>
+    </footer>
+  </div>
+</body>
+</html>
