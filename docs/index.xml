@@ -6,10 +6,23 @@
     <description>Recent content in Home on Hraj Ascension!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 01 Apr 2018 13:21:27 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 22 Apr 2018 12:57:24 +0200</lastBuildDate>
     
 	<atom:link href="https://lostpeanut.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nové dáta</title>
+      <link>https://lostpeanut.github.io/hugo-start/post/newdata/</link>
+      <pubDate>Sun, 22 Apr 2018 12:57:24 +0200</pubDate>
+      
+      <guid>https://lostpeanut.github.io/hugo-start/post/newdata/</guid>
+      <description>Naša stránka sa zaoberá stolnou hrou Ascension. V lekcii 7 máme pridať nový post s dátami voľne dostupnými, ktoré môžeme využiť na našom webe.
+Zdroje, ktoré využijeme:
+ https://en.wikipedia.org/wiki/Board_game - Zdroj z wikipedie pod licenciou Creative Commons. Obsahuje informácie o stolných hrách.
+ https://en.wikipedia.org/wiki/List_of_board_games - Opäť zdroj z wikipedie pod Creative Commons licenciou - je to zoznam známych stolných hier.
+ https://boardgames.stackexchange.com/ - licencované pod cc by-sa 3.0 with attribution required, to znamená, že obsah musí byť označený, musíme odkazovať na pôvodnú stránku, ukázať mená autorov a linky na ich profily - zdá sa to zložité, ale je to v poriadku a je to jedna z mála stránok, ktoré vôbec dovoľujú zdieľanie ich obsahu.</description>
+    </item>
     
     <item>
       <title>Team</title>
@@ -21,6 +34,21 @@
 Členovia projektu Mária Sadecká Nápad na tému Hraj Ascension! mi skrsol v hlave veľmi spontánne. Keďže som si túto hru veľmi obľúbila a baví ma, napadlo mi, že nie je odveci, aby som sa jej venovala viac.
 Navyše mám super spolupracovníčky, takže je to o to väčšia sranda!
 Vendula Pavková  zajímavé téma když vydržím - - &amp;gt; udělám tenhle předmět práce s fajn kolektivem  Veronika Vobořilová Každý člověk by si měl někdy odpočinout od práce.</description>
+    </item>
+    
+    <item>
+      <title>Ascension: Year One Collector&#39;s Edition</title>
+      <link>https://lostpeanut.github.io/hugo-start/post/prispevek/</link>
+      <pubDate>Thu, 29 Mar 2018 12:01:26 +0200</pubDate>
+      
+      <guid>https://lostpeanut.github.io/hugo-start/post/prispevek/</guid>
+      <description>Ascension: Year One Collector&amp;rsquo;s Edition &amp;ldquo;Ascension: Year One Collector&amp;rsquo;s Edition&amp;rdquo; je sběratelskou edicí obsahující všech 346 karet. Karty mají nové rámečky s povrchovou úpravou z prémiové fólie a patří mezi &amp;ldquo;top&amp;rdquo; sběratelský kousek v jakékoli Ascencion kolekci.
+Tato sada zahrnuje:
+1. Chronicle of the Godslayer
+2. Ascension: Return of the Fallen King
+3. Rat King Theme Pack, Rat Queen Theme Pack
+4. Samael Claus Theme pack
+5. Leprechaun Theme Pack and the entire first year of promo cards!</description>
     </item>
     
     <item>
@@ -51,6 +79,15 @@ Vendula Pavková  zajímavé téma když vydržím - - &amp;gt; udělám tenhle 
       <guid>https://lostpeanut.github.io/hugo-start/post/welcome-to-hugo/</guid>
       <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
 To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lostpeanut.github.io/hugo-start/post/clanek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lostpeanut.github.io/hugo-start/post/clanek/</guid>
+      <description>+&amp;mdash; +title: &amp;ldquo;Testujeme Ascension: Deckbuilding Game na Steame&amp;rdquo; +date: 2018-05-01T12:57:24+02:00 +draft: false +&amp;mdash; +Dnes sme sa rozhodli, že je čas otestovať si Ascension ako aplikáciu na Steame. Hra Ascension: Deckbuilding Game je v 51% zľave do 2.5.2018, takže ešte máte čas nakúpiť si hru aj Vy. + +Hra Ascension na Steame bola ocenená ako 2011 Golden Geek award winner (Best Mobile/Handheld Game). To už sa možno zdá celkom dávno, ale hra je stále pomerne populárna, a tým, že aj mne sa darí rozširovať hru medzi kamarátov, je to nenápadné dostávanie hry Ascension do sveta.</description>
     </item>
     
     <item>

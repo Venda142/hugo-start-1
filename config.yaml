@@ -2,6 +2,7 @@ title: Hraj Ascension!
 baseURL: https://lostpeanut.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
+googleAnalytics: UA-117957086-1
 
 menu:
   main:
